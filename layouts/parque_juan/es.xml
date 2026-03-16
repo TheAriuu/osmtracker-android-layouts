@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layouts>
+
+    <layout name="Elementos de Parque" />
+
+    <page name="Principal">
+
+        <row>
+            <button
+                label="Árbol"
+                tag="natural=tree"
+                img="parque_icons/arboles.png" />
+            <button
+                label="Banca"
+                tag="amenity=bench"
+                img="parque_icons/bancas.png" />
+            <button
+                label="Basurero"
+                tag="amenity=waste_basket"
+                img="parque_icons/basureros.png" />
+        </row>
+
+        <row>
+            <button
+                label="Juegos infantiles"
+                tag="leisure=playground"
+                img="parque_icons/juegos_ninos.png" />
+            <button
+                label="Máquinas de ejercicio"
+                tag="leisure=fitness_station"
+                img="parque_icons/maquinas_ejercicio.png" />
+            <button
+                label="Mural"
+                tag="artwork_type=mural tourism=artwork"
+                img="parque_icons/murales.png" />
+        </row>
+
+        <row>
+            <button
+                label="Estatua / Monumento"
+                tag="artwork_type=statue tourism=artwork"
+                img="parque_icons/estatuas_monumentos.png" />
+            <button
+                label="Camino / Acera"
+                tag="highway=footway"
+                img="parque_icons/caminos_aceras.png" />
+        </row>
+
+        <row>
+            <button
+                label="Poste de luz (ornamental)"
+                tag="highway=street_lamp lamp_mount=pole"
+                img="parque_icons/postes_luz_1.png" />
+            <button
+                label="Poste de luz (moderno)"
+                tag="highway=street_lamp lamp_mount=straight_mast"
+                img="parque_icons/postes_luz_2.png" />
+        </row>
+
+        <row>
+            <button
+                label="Señal informativa"
+                tag="information=guidepost tourism=information"
+                img="parque_icons/senales_1.png" />
+            <button
+                label="Señal de parque / juegos"
+                tag="information=sign tourism=information"
+                img="parque_icons/senales_2.png" />
+        </row>
+
+    </page>
+
+</layouts>

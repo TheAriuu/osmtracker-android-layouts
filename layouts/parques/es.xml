@@ -8,8 +8,8 @@
     </row>
     <row>
       <button type="tag" label="Basura" icon="parques_icons/basura.png"/>
-      <button type="tag" label="Hidrante de Pilar" icon="parques_icons/arboles.png"/>
-      <button type="tag" label="Hidrante de Pared" icon="parques_icons/bancas.png"/>
+      <button type="tag" label="Árbol" icon="parques_icons/arboles.png"/>
+      <button type="tag" label="Banca" icon="parques_icons/bancas.png"/>
     </row>
     <row>
       <button type="tag" label="Basura" icon="parques_icons/basura.png"/>

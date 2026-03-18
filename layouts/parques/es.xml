@@ -8,13 +8,13 @@
     </row>
     <row>
       <button type="tag" label="Basura" icon="parques_icons/basura.png"/>
-      <button type="tag" label="Hidrante de Pilar" icon="parques_icons/App-01.png"/>
-      <button type="tag" label="Hidrante de Pared" icon="parques_icons/App-02.png"/>
+      <button type="tag" label="Hidrante de Pilar" icon="parques_icons/basura.png"/>
+      <button type="tag" label="Hidrante de Pared" icon="parques_icons/basura.png"/>
     </row>
     <row>
-      <button type="tag" label="Hidrante Subterráneo" icon="parques_icons/marker.png"/>
-      <button type="tag" label="Hidrante Desconocido" icon="parques_icons/App-04.png"/>
-      <button type="tag" label="Hidrante fuera de servicio" icon="parques_icons/App-10.png"/>
+      <button type="tag" label="Basura" icon="parques_icons/basura.png"/>
+      <button type="tag" label="Hidrante Desconocido" icon="parques_icons/basura.png"/>
+      <button type="tag" label="Hidrante fuera de servicio" icon="parques_icons/basura.png"/>
     </row>
   </layout>
 </layouts>

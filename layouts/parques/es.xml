@@ -17,7 +17,7 @@
       <button type="tag" label="JuegosNiños" icon="parques_icons/Juegos-ninos.png"/>
     </row>
     <row>
-      <button type="tag" label="MaquinaEjercicio" icon="parques_icons/Juegos-ninos.png"/>
+      <button type="tag" label="MaquinaEjercicio" icon="parques_icons/Maquina-ejercicio.png"/>
       <button type="tag" label="Mural" icon="parques_icons/Mural.png"/>
       <button type="tag" label="Señales" icon="parques_icons/Señales.png"/>
     </row>

@@ -19,10 +19,7 @@
     <row>
       <button type="tag" label="MaquinaEjercicio" icon="parques_icons/Maquina-ejercicio.png"/>
       <button type="tag" label="Mural" icon="parques_icons/Mural.png"/>
-      <button type="tag" label="Señales" icon="parques_icons/Señales.png"/>
-    </row>
-    <row>
-      <button type="tag" label="PostesLuz" icon="parques_icons/Luz.png"/>
+      <button type="tag" label="Señales" icon="parques_icons/Senales.png"/>
     </row>
   </layout>
 </layouts>

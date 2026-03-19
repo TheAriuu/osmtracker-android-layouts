@@ -21,5 +21,8 @@
       <button type="tag" label="Mural" icon="parques_icons/Mural.png"/>
       <button type="tag" label="Señales" icon="parques_icons/Senales.png"/>
     </row>
+    <row>
+      <button type="tag" label="PostesLuz" icon="parques_icons/Luz.png"/>
+    </row>
   </layout>
 </layouts>

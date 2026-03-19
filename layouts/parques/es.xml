@@ -8,13 +8,13 @@
     </row>
     <row>
       <button type="tag" label="Basura" icon="parques_icons/basura.png"/>
-      <button type="tag" label="Árbol" icon="parques_icons/Arbol.png"/>
-      <button type="tag" label="Banca" icon="parques_icons/bancas.png"/>
+      <button type="tag" label="Árbol" icon="parques_icons/Arboles.png"/>
+      <button type="tag" label="Banca" icon="parques_icons/Banca.png"/>
     </row>
     <row>
-      <button type="tag" label="Basura" icon="parques_icons/basura.png"/>
-      <button type="tag" label="Hidrante Desconocido" icon="parques_icons/basura.png"/>
-      <button type="tag" label="Hidrante fuera de servicio" icon="parques_icons/basura.png"/>
+      <button type="tag" label="Camino" icon="parques_icons/Camino.png"/>
+      <button type="tag" label="Monumento" icon="parques_icons/Monumento.png"/>
+      <button type="tag" label="Hidrante fuera de servicio" icon="parques_icons/App-01.png"/>
     </row>
   </layout>
 </layouts>

@@ -14,7 +14,14 @@
     <row>
       <button type="tag" label="Camino" icon="parques_icons/Camino.png"/>
       <button type="tag" label="Monumento" icon="parques_icons/Monumento.png"/>
-      <button type="tag" label="Hidrante fuera de servicio" icon="parques_icons/App-01.png"/>
+      <button type="tag" label="JuegosNiños" icon="parques_icons/Juegos-ninos.png"/>
+    </row>
+    <row>
+      <button type="tag" label="MaquinaEjercicio" icon="parques_icons/Juegos-ninos.png"/>
+      <button type="tag" label="Mural" icon="parques_icons/Mural.png"/>
+      <button type="tag" label="Señales" icon="parques_icons/Señales.png"/>
+    </row>
+      <button type="tag" label="PostesLuz" icon="parques_icons/Luz.png"/>
     </row>
   </layout>
 </layouts>

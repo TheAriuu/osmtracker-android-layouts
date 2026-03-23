@@ -22,7 +22,7 @@
       <button type="tag" label="Parque Infatil" icon="parques_icons/parque_infantil.png"/>
     </row>
     <row>
-      <button type="tag" label="Camino" icon="parques_icons/Camino.png"/>
+      <button type="tag" label="Camino" icon="parques_icons/camino.png"/>
     </row>
   </layout>
 </layouts>

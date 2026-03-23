@@ -7,22 +7,22 @@
       <button type="textnote" icon="text_32x32"/>
     </row>
     <row>
-      <button type="tag" label="Basura" icon="parques_icons/basura.png"/>
       <button type="tag" label="Árbol" icon="parques_icons/Arboles.png"/>
       <button type="tag" label="Banca" icon="parques_icons/Banca.png"/>
+      <button type="tag" label="Basurero" icon="parques_icons/basura.png"/>
+    </row>
+    <row>
+      <button type="tag" label="Iluminación" icon="parques_icons/Luz.png"/>
+      <button type="tag" label="Mural" icon="parques_icons/Mural.png"/>
+      <button type="tag" label="Señal" icon="parques_icons/Senales.png"/>
+    </row>
+    <row>
+      <button type="tag" label="Obra de Arte" icon="parques_icons/Monumento.png"/>
+      <button type="tag" label="Parque Biosaludable" icon="parques_icons/Maquina-ejercicio.png"/>
+      <button type="tag" label="Parque Infatil" icon="parques_icons/Juegos-ninos.png"/>
     </row>
     <row>
       <button type="tag" label="Camino" icon="parques_icons/Camino.png"/>
-      <button type="tag" label="Monumento" icon="parques_icons/Monumento.png"/>
-      <button type="tag" label="JuegosNiños" icon="parques_icons/Juegos-ninos.png"/>
-    </row>
-    <row>
-      <button type="tag" label="MaquinaEjercicio" icon="parques_icons/Maquina-ejercicio.png"/>
-      <button type="tag" label="Mural" icon="parques_icons/Mural.png"/>
-      <button type="tag" label="Señales" icon="parques_icons/Senales.png"/>
-    </row>
-    <row>
-      <button type="tag" label="PostesLuz" icon="parques_icons/Luz.png"/>
     </row>
   </layout>
 </layouts>

@@ -17,7 +17,7 @@
       <button type="tag" label="Sign" icon="parques_icons/senal.png"/>
     </row>
     <row>
-      <button type="tag" label="Monument" icon="parques_icons/monumento.png"/>
+      <button type="tag" label="Art" icon="parques_icons/arte.png"/>
       <button type="tag" label="Outdoor Gym" icon="parques_icons/parque_biosaludable.png"/>
       <button type="tag" label="Playground" icon="parques_icons/parque_infantil.png"/>
     </row>
